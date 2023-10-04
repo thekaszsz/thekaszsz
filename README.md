@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=thekaszsz's github*&fontSize=90" />
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=thekaszsz's Github*&fontSize=90" />	
+</div>
 <div align=center>
     <h3> Hi there 👋 </h3>
 	<h2>🌱 I’m currently learning ...</h2>
